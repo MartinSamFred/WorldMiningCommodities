@@ -30,10 +30,15 @@ Column 3,4,5,6 and 7: is the year i.e. 2018, 2019, 2020, 2021 and 2022
 116_world_mining_companies_clean file
 
 Column 0 – “name”: name of company
+
 Column 1 – “Ticker / Market Capitalization”: ticker and marketcap (could be dropped)
+
 Column 2 – “Project Stage”: states Development, Exploration, Production, Royalty and Streaming (or a combination of there)
+
 Column 3 – “Commodity”: states the commodity or commodities the company mine
+
 Column 4 – “Location”: states the country or countries in which the company mine
+
 Column 5 – “Website”: company website
 
 **************************************************************
@@ -41,7 +46,9 @@ Column 5 – “Website”: company website
 ## Uses
 
 Visualization, unit conversion practice, get to know who mines what, put commodities into categories/groups and countries in trade unions etc. 
+
 Maybe also some advanced visualization mapping commodity mining and companies.
+
 Practice exercises etc.
 
 ________________________________________
