@@ -7,7 +7,7 @@ Additional file [116_world_mining_companies_clean] (csv file) could be appended 
 
 **************************************************************
 
-Content 
+## Content 
 
 world_mining_commodities_clean file
 
@@ -39,6 +39,7 @@ Column 5 – “Website”: company website
 **************************************************************
 
 Uses
+
 Visualization, unit conversion practice, get to know who mines what, put commodities into categories/groups and countries in trade unions etc. 
 Maybe also some advanced visualization mapping commodity mining and companies.
 Practice exercises etc.
@@ -46,6 +47,7 @@ Practice exercises etc.
 ________________________________________
 
 Disclaimer
+
 The data and information in the data set provided here are intended to be used primarily for educational purposes only. I do not own any data, and all rights are reserved to the respective owners as outlined in “Acknowledgements/sources”. The accuracy of the dataset is not guaranteed accordingly any analysis and/or conclusions is solely at the user's own responsibly and accountability.
 
 ________________________________________
