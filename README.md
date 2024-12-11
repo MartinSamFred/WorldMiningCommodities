@@ -33,7 +33,7 @@ Column 0 – “name”: name of company
 
 Column 1 – “Ticker / Market Capitalization”: ticker and marketcap (could be dropped)
 
-Column 2 – “Project Stage”: states Development, Exploration, Production, Royalty and Streaming (or a combination of there)
+Column 2 – “Project Stage”: states Development, Exploration, Production, Royalty and Streaming (or a combination of these)
 
 Column 3 – “Commodity”: states the commodity or commodities the company mine
 
