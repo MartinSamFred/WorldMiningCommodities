@@ -1,3 +1,5 @@
+# World Mining Commodities
+
 ## About the dataset
 
 The dataset [world_mining_commodities_clean] (csv file) contains data about mined commodities pr. country during the period 2018-2022. 
