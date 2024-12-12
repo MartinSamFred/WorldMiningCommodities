@@ -2,7 +2,7 @@
 
 ## About the dataset
 
-The dataset [world_mining_commodities_clean] (csv file) contains data about mined commodities pr. country during the period 2018-2022. 
+The dataset [world_mining_commodities_clean] (csv file) contains data about mined commodities (65) pr. country (169) during the period 2018-2022. 
 
 Additional file [116_world_mining_companies_clean] (csv file) could be appended to the dataset file as it contains information about what commodities the 116 companies mine and in which countries they operate.
 
