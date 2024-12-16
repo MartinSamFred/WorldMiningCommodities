@@ -4,12 +4,16 @@
 
 The dataset [world_mining_commodities_clean] (csv file) contains data about mined commodities (65) pr. country (169) during the period 2018-2022. 
 
-Additional file [116_world_mining_companies_clean] (csv file) could be appended to the dataset file as it contains information about what commodities the 116 companies mine and in which countries they operate.
+Additional files:
+
+[commodity_info, sheet 1] (xlsx file) could be appended to the dataset file as it contains detailed information about the commodities (mainly elements). see code for example.
+
+Additional file [116_world_mining_companies_clean] (csv file) could be appended to the dataset file as it contains information about what commodities the 116 companies mine and in which countries they operate. see code for example.
 
 
 **************************************************************
 
-## Content (1/2)
+## Content (1/3)
 
 world_mining_commodities_clean file
 
@@ -27,7 +31,7 @@ Column 3,4,5,6 and 7: is the year i.e. 2018, 2019, 2020, 2021 and 2022
 
 **************************************************************
 
-## Content (2/2)
+## Content (2/3)
 
 116_world_mining_companies_clean file
 
@@ -42,6 +46,28 @@ Column 3 – “Commodity”: states the commodity or commodities the company mi
 Column 4 – “Location”: states the country or countries in which the company mine
 
 Column 5 – “Website”: company website
+
+**************************************************************
+
+## Content (3/3)
+
+commodity_info file (sheet 1)
+
+Column 0 – “commodity”: is the underlying mined commodity
+
+Column 1 – “chemical_composition": chemical formula for the underlying mined commodity
+
+Column 2 – “atomic_no”: atomic no for those commodites that are elements
+
+Column 3 – “periodic_table_group”: group position in the peridic table for those commodites that are elements
+
+Column 4 – “periodic_table_period: period position in the peridic table for those commodites that are elements
+
+Column 5 – “periodic_table_block: block position in the peridic table for those commodites that are elements
+
+Column 6 – “material_sub”: sub categpry in the peridic table for those commodites that are elements
+
+Column 8 – “form”: commodity form i.e. solid or liquid
 
 **************************************************************
 
