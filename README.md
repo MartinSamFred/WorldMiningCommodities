@@ -10,6 +10,10 @@ Additional files:
 
 [116_world_mining_companies_clean] (csv file) could be appended to the dataset file as it contains information about what commodities the 116 companies mine and in which countries they operate. see code for example.
 
+**************************************************************
+
+Coding example: WorldMiningCommodities.ipynb [Python 3.8.19]
+
 
 **************************************************************
 
