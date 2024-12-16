@@ -8,7 +8,7 @@ Additional files:
 
 [commodity_info, sheet 1] (xlsx file) could be appended to the dataset file as it contains detailed information about the commodities (mainly elements). see code for example.
 
-Additional file [116_world_mining_companies_clean] (csv file) could be appended to the dataset file as it contains information about what commodities the 116 companies mine and in which countries they operate. see code for example.
+[116_world_mining_companies_clean] (csv file) could be appended to the dataset file as it contains information about what commodities the 116 companies mine and in which countries they operate. see code for example.
 
 
 **************************************************************
